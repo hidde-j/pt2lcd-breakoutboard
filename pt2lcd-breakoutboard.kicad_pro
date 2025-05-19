@@ -446,7 +446,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "pt2lcd-devboard.kicad_pro",
+    "filename": "pt2lcd-breakoutboard.kicad_pro",
     "version": 1
   },
   "net_settings": {
